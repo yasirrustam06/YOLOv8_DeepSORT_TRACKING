@@ -7,3 +7,6 @@
 
 # `DeepSORT Architecture.`
 
+![archi](https://user-images.githubusercontent.com/98689629/212268087-c1cef949-3039-4038-bfce-c92fd195e3d6.jpg)
+
+
